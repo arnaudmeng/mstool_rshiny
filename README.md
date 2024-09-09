@@ -31,4 +31,4 @@ In command line, do `runApp("app.R")`
 
 ## Contact
 
-Arnaud Meng, PhD, Institut Pasteur, Paris, FR
+[Arnaud Meng](https://research.pasteur.fr/en/member/arnaud-meng/), PhD, Institut Pasteur, Paris, FR
