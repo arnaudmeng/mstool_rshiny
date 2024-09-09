@@ -1,0 +1,3 @@
+ID;META;Mass
+32;information;256.12
+67;random;48.967

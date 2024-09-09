@@ -1,0 +1,4 @@
+MoleculeName;Formula
+sodium chloride;NaCl
+palmitic acid;C16H32O2
+ethanol;C2H6O
