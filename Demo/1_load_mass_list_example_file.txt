@@ -1,0 +1,9 @@
+Element;Symbol;Mass
+Hydrogen;H;1.00782503207
+Carbon;C;12
+Nitrogen;N;14.003074
+Oxygen;O;15.99491461956
+Sodium;Na;22.9897692809
+Phosphorus;P;30.97376163
+Sulfur;S;31.972071
+Chlorine;Cl;34.96885268
