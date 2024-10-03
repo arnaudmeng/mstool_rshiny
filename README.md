@@ -1,5 +1,10 @@
 # mstool_rshiny
 
+This tool has been developped for the needs of mass chemists working at the Metabolomic Core Facility of Pasteur Institute (Paris). 
+All functions and utilities embedded resulted from the collaboration of mass spectrometry expert (Kathleen Rousseau), chemist expert (Lise Boulard) and bioinformatic expert (Arnaud Meng).
+
+More description about the functions implemented in the tool will come soon.
+
 ## Prerequisited packages
 
 - library(shiny)
