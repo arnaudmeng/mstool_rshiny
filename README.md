@@ -11,12 +11,19 @@ More description about the functions implemented in the tool will come soon.
 ## Help vignettes for application sections
 
 [page 1 - load atom mass table](vignettes/tab1_load_mass_data_help.md)
+
 [page 2 - define modifier](vignettes/tab2_define_modifier_help.md)
+
 [page 3 - compute compound mass](vignettes/tab3_work_formula_help.md)
+
 [page 4 - compute adduct mass list](vignettes/tab4_compute_list_of_adducts_help.md)
+
 [page 5 - predict formula from mass](vignettes/tab5_predict_formula_from_mass_help.md)
+
 [page 6 - generate compond pools from mass](vignettes/tab6_generate_mass_pools_help.md)
+
 [page 7 - build analytic chemical sequence for mass spectrometry](vignettes/tab7_build_sequence_help.md)
+
 [page 8 - MGF spectrum vizualizer](vignettes/tab8_mgf_reader_help.md)
 
 ## Prerequisited packages
