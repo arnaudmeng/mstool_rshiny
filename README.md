@@ -3,7 +3,7 @@
 This tool has been developped for the needs of mass chemists working at the [Metabolomic Core Facility](https://research.pasteur.fr/en/team/metabolomics-core-facility/) of Pasteur Institute (Paris). 
 All functions and utilities embedded resulted from the collaboration of mass spectrometry expert (Kathleen Rousseau), chemist expert (Lise Boulard) and bioinformatic expert (Arnaud Meng).
 
-More description about the functions implemented in the tool will come soon.
+The RShiny is divided in mutliple sections. Each 
 
 > [!CAUTION]
 > This project is still under developpment.
