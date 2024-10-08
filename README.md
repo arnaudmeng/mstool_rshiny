@@ -1,9 +1,7 @@
 # mstool_rshiny
 
-This tool has been developped for the needs of mass chemists working at the [Metabolomic Core Facility](https://research.pasteur.fr/en/team/metabolomics-core-facility/) of Pasteur Institute (Paris). 
-All functions and utilities embedded resulted from the collaboration of mass spectrometry expert (Kathleen Rousseau), chemist expert (Lise Boulard) and bioinformatic expert (Arnaud Meng).
-
-The RShiny is divided in mutliple sections. Each sections is dedicated to a simple and specific task. More description will come soon.
+This tool has been developped & designed to offer support with chemisty and mass spectrometry calculation and visualization purposes.
+It encompasses a variety of functions that should enhance the QoL of mass experts and/or chemist by offering a intuitive and efficient graphic interface dedicated to chemistry and mass spectrometry.  
 
 > [!CAUTION]
 > This project is still under developpment.
@@ -28,24 +26,24 @@ The RShiny is divided in mutliple sections. Each sections is dedicated to a simp
 
 ## Prerequisited packages
 
-- library(shiny)
-- library(shinydashboard)
-- library(shinyBS)
-- library(shinyalert)
-- library(shinyjs)
-- library(markdown)
-- library(DT)
-- library(tidyverse)
-- library(dplyr)
-- library(stringr)
-- library(stringi)
-- library(httr)
-- library(ggplot2)
-- library(ggpmisc)
-- library(plotly)
-- library(ggpubr)
-- library(magrittr)
-- library(ptable)
+- shiny
+- shinydashboard
+- shinyBS
+- shinyalert
+- shinyjs
+- markdown
+- DT
+- tidyverse
+- dplyr
+- stringr
+- stringi
+- httr
+- ggplot2
+- ggpmisc
+- plotly
+- ggpubr
+- magrittr
+- ptable
 
 ## How to
 
@@ -57,6 +55,10 @@ In command line, do:
 ```
 runApp("app.R")`
 ```
+## Contributors
+
+All functions and utilities embedded resulted from the collaboration of mass spectrometry expert (Kathleen Rousseau, PhD), chemist expert (Lise Boulard, PhD) and bioinformatic expert (Arnaud Meng, PhD).
+[Metabolomic Core Facility](https://research.pasteur.fr/en/team/metabolomics-core-facility/) of Pasteur Institute (Paris).
 
 ## Contact
 
